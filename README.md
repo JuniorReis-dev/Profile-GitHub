@@ -1,24 +1,17 @@
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/cleiton-reis-br/">Cleiton Reis👋</a>
-  </h1>
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleiton+Reis+;I'm+18+years+old;I+from+Brasil,+SP;I+study+development+at+udemy;Be+Welcome!+:%29)
+  
 <div align="center">
   <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente estudando 
   <img align="center" alt="Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> na udemy</p>
   <a href="https://github.com/JuniorReis-dev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&shows_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
@@ -29,7 +22,8 @@
 <div align="center">
   <a href="https://www.youtube.com/channel/UC7lCZM97-HqfXu87PlEV31A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/um_programador_junior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/cleiton-reis-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cleiton-reis-br/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="cleiton:cleiton.nr47@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -38,7 +32,4 @@
   ![Snake animation](https://github.com/JuniorReis-dev/JuniorReis-dev/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-<div align="center">
-  <p>Feito com :heart:</p>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
