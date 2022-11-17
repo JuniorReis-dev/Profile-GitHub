@@ -7,7 +7,8 @@
   
 
 <div align="center">
-  <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente estudando javascript na udemy</p>
+  <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente estudando 
+  <img align="center" alt="Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> na udemy</p>
   <a href="https://github.com/JuniorReis-dev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&theme=dracula&hide_border=false&&layout=compact"/>
