@@ -3,7 +3,6 @@
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/cleiton-reis-br/">Cleiton Reis👋</a>
-    <p>sou estudante de Programaçao web e apaixonado por Tecnologia  </p>
   </h1>
   
 
