@@ -3,9 +3,12 @@
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/cleiton-reis-br/">Cleiton Reis👋</a>
+    <p>sou estudante de Programaçao web e apaixonado por Tecnologia  </p>
   </h1>
+  
 
 <div align="center">
+  <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente estudando javascript na udemy</p>
   <a href="https://github.com/JuniorReis-dev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&theme=dracula&hide_border=false&&layout=compact"/>
@@ -20,7 +23,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/color/512/github.png">
 </div><br>
 
 <div align="center">
@@ -37,5 +40,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart:</p>
 </div>
