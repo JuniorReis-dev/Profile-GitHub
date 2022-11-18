@@ -1,10 +1,7 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleiton+Reis+;I'm+18+years+old;I+from+Brasil,+SP;I+study+development+at+udemy;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleiton+Reis+;I'm+18+years+old;I+from+Brasil,+SP;I+study+development+Web+at+udemy;Be+Welcome!+:%29)
   
-<div align="center">
-  <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente Estundando
-    <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> na udemy 
-  na udemy</p> 
+<div align="center"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&shows_icons=true&count_private=true&hide_border=true&title_color=ff8600&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&hide_border=true&title_color=ff8600&text_color=ffffff&bg_color=0d1117" />
 </div>
