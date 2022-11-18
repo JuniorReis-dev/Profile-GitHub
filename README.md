@@ -5,9 +5,10 @@
 <div align="center">
   <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente Estundando
     <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> na udemy 
-  na udemy</p>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
+  na udemy</p> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&shows_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 </div>
 
 <div align="center" valign="top"><br>
