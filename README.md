@@ -15,7 +15,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/color/512/github.png">
 </div><br>
-<h1 align="center">Redes sociais <3</h1>
+<h1 align="center">Redes Sociais <3</h1>
 <div align="center">
   <a href="https://www.youtube.com/channel/UC7lCZM97-HqfXu87PlEV31A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/um_programador_junior/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
