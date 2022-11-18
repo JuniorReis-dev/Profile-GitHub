@@ -6,8 +6,8 @@
   <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente estudando JavaScript 
   na udemy</p>
   <a href="https://github.com/JuniorReis-dev">
-    <img  height="180px" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
+    <img  height="180px" width="auto" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <div align="center" valign="top"><br>
