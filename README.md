@@ -2,8 +2,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleiton+Reis+;I'm+18+years+old;I+from+Brasil,+SP;I+study+development+Web+at+udemy;Be+Welcome!+:%29)
   
 <div align="center"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby" />
+  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" /> 
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby" />
 </div>
 </div>
 
