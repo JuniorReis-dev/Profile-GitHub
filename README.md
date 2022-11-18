@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Cleiton+Reis+;I'm+18+years+old;I+from+Brasil,+SP;I+study+development+at+udemy;Be+Welcome!+:%29)
   
 <div align="center">
-  <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente 
+  <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente Estundando JavaScript na udemy 
   na udemy</p>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
