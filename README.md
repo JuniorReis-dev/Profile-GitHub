@@ -6,6 +6,8 @@
   <p>Sou estudante de Programaçao web é apaixonado por Tecnologia Atualmente Estundando
     <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> na udemy 
   na udemy</p>
+  </div>
+  <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JuniorReis-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorReis-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
